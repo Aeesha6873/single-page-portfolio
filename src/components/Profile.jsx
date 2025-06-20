@@ -12,7 +12,7 @@ export default function Profile() {
             <br /> I'm <span>Aisha Abdullahi A.</span>
           </h1>
           <p>
-            Based in the Nigeria, I'm a front-end developer passionate about
+            Based in Nigeria, I'm a front-end developer passionate about
             building accessible web apps that users love.
           </p>
         </div>
