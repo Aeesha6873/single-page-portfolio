@@ -6,7 +6,7 @@ export default function Profile() {
   return (
     <section className="profile">
       <div className="left">
-        <div>
+        <div className="profile-details">
           <h1>
             Nice to meet you!
             <br /> I'm <span>Aisha Abdullahi A.</span>

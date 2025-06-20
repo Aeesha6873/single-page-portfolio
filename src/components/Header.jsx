@@ -6,13 +6,13 @@ export default function Header() {
     <nav className="navbar">
       <div className="navbar-brand">aeesha</div>
       <div className="navbar-icons">
-        <a href="">
+        <a href="https://github.com/Aeesha6873">
           <FaGithub />
         </a>
         <a href="https://www.linkedin.com/in/seeaisha/">
           <FaLinkedin />
         </a>
-        <a href="">
+        <a href="https://x.com/aishaabdul70050?s=21">
           <FaTwitter />
         </a>
       </div>

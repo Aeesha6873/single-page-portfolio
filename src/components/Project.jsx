@@ -31,7 +31,7 @@ export default function Project() {
               <a href={project.link} className="project-link">
                 View Project
               </a>
-              <a href={project.link} className="project-link">
+              <a href={project.code} className="project-link">
                 View Code
               </a>
             </div>

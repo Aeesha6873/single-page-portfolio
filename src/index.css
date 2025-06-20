@@ -231,9 +231,6 @@ h2 {
 }
 
 @media (max-width: 640px) {
-  /* body {
-    max-width: 640px;
-  } */
   .navbar {
     flex-direction: column;
     gap: 20px;
@@ -248,6 +245,9 @@ h2 {
   }
   .project-card {
     flex: 1 1 100%;
+  }
+  .left {
+    padding: 30px 0;
   }
   .left h1 {
     font-size: 2rem;
